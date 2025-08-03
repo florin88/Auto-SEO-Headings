@@ -95,7 +95,7 @@ Paragrafo → H2 → H3 → Paragrafo
 
 # Stopwords Italiane
 Lista completa di stopwords per estrarre keywords significative:
->  - il, lo, la, di, a, da, in, con, su, per, tra, fra, e, o, che, come, quando, dove, se...
+> il, lo, la, di, a, da, in, con, su, per, tra, fra, e, o, che, come, quando, dove, se...
 
 # 🔧 Configurazione
 
