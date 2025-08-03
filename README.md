@@ -128,7 +128,7 @@ Il plugin registra automaticamente:
 GPL v2 or later - Usa, modifica e distribuisci liberamente!
 
 # 👨‍💻 Autore
-Flavius Florin Harabor [🌐 2088.it](https://2088.it/)
+Flavius Florin Harabor [🌐 2088.it](https://2088.it/io-nerd/)
 
 # 💰 Donazioni
 - **[Ko-Fi](https://ko-fi.com/insidetelegramproject)**
