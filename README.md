@@ -135,6 +135,9 @@ Flavius Florin Harabor [🌐 2088.it](https://2088.it/)
 
 Se consideri che questo progetto ti è tornato utile per il tuo lavoro, non esitare a farmi una piccola donazione.
 
+# ⭐ Se ti piace il progetto
+Lascia una stella su GitHub e condividi con altri sviluppatori WordPress!
+
 
 # 📫 Contatti
 - [Telegram](https://t.me/ErBoss88)
